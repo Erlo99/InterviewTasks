@@ -1,0 +1,15 @@
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\InterviewTasks.exe
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\InterviewTasks.deps.json
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\InterviewTasks.runtimeconfig.json
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\InterviewTasks.dll
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\ref\InterviewTasks.dll
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\InterviewTasks.pdb
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\InterviewTasks.csproj.AssemblyReference.cache
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\InterviewTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\InterviewTasks.AssemblyInfoInputs.cache
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\InterviewTasks.AssemblyInfo.cs
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\InterviewTasks.csproj.CoreCompileInputs.cache
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\InterviewTasks.dll
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\ref\InterviewTasks.dll
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\InterviewTasks.pdb
+C:\Users\3rysl\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\InterviewTasks.genruntimeconfig.cache
